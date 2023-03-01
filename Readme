@@ -1,1 +1,5 @@
-Deploy Diagnostic Settings for Azure Function to Event Hub
+
+# Author : Ganesh Sekarbabu
+# Site - https://techbrainblog.com/
+# Purpose: Azure  Policy to deploy Diagnostic Settings for Azure Function to Event Hub
+#Note: For resources that already exist, a remediation task has to be created.
